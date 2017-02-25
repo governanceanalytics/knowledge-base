@@ -17,7 +17,7 @@
 
 ## Purpose of the knowledge base
 
-You are here in the knowledge base section of the Governance Analytics website. The purpose of this knowledge base is to provide the researchers with the necessary approaches, tools, and databases access to deal with data intensive research.
+You are here in the knowledge base section of the [Governance Analytics website](http://www.governanceanalytics.org/). The purpose of this knowledge base is to provide the researchers with the necessary approaches, tools, and databases access to deal with data intensive research.
 
 ## The stakes of dealing with complex data
 
