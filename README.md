@@ -37,7 +37,7 @@ Numerical data, or textual data converted into numerical information, can then b
 
 The second main purpose of this knowledge base is to provide the beginner or advanced researcher with a set of Databases. We do not aim at exhaustivity, and are waiting for your input to expand this knowledge base.
 
-The recent evolution of data science has been marked by the expansion of Open data or openly accessible data. This can stem whether from Government data, or from NGO data. These databases can also be linked through Linked open data and linked repositories.
+The recent evolution of data science has been marked by the expansion of [Open data or openly accessible data](#Databases). This can stem whether from Government data, or from NGO data. These databases can also be linked through Linked open data and linked repositories.
 
 We present more [traditional datasets](#Databases) from a wide range of data providers. The traditional datasets have recently been challenged by the rise of long run Historical datasets. Such kind of data often rest on the exploitation of physical archives, of which we present here the most interesting examples and possibilities.
 
