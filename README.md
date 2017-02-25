@@ -45,6 +45,9 @@ We finally conclude by presenting comparable Knowledge bases in the world, which
 
 This knowledge base aims at being a Work in progress. The Governance Analytics team is waiting for your input in order to make it even more user friendly, and to incorporate any data tools or databases you think would be of particular interest for this project.
 
+Please don’t hesitate to [write to the Governance Analytics team](mailto:contact@governanceanalytics.org)
+
+
 ************************************************************************
 
 ##  <a name="Maintools"></a>Main tools 
@@ -93,7 +96,4 @@ Here is a list of potentially interesting [Similar Projects](SimilarInitiatives.
 
 # Participate to our information base
 
-The Governance Analytics team is waiting for your input in order to make it even more user friendly, and to incorporate any data tools or databases you think would be of particular interest for this project. Please don’t hesitate to write to us for ideas and suggestions.
-
-
-.
+The Governance Analytics team is waiting for your input in order to make it even more user friendly, and to incorporate any data tools or databases you think would be of particular interest for this project. Please don’t hesitate to [write to us for ideas and suggestions](mailto:contact@governanceanalytics.org).
