@@ -7,7 +7,7 @@
 Nowadays, the size of the data that is being generated and created in different organizations is increasing drastically.  Due to this large amount of data, several areas in artificial intelligence and data science have been raised.  We have shown in the previous sections the different techniques that help to extract and handle the data. Hence, after having collected the data from different sources and stored them in various databases, we can proceed to many analysis steps for the aim of extracting hidden information and discriminant patterns.
 In fact, most organizations do actually a set of techniques to discover intricate relationships, discover complex patterns, and predict trends in the data. These data are modelled and then pertinent variables are identified in order to obtain useful insight on the problem and obtain intelligent decision. Figure 1 illustrates an example of what we call the advanced analytics and its components. Indeed it contains descriptive, diagnostic, predictive, and prescriptive analytics. Altogether, theses methods allow us to know what is hidden in our data, what has happened, why it happened, what will happen and what we can do to change what will happen in a way that benefits us [1].
 
-![The different steps in the advanced analytics \label{Figure1}](../../images/image001.png)
+![The different steps in the advanced analytics \label{Figure1}](../images/image001.png)
 
 Figure 1: The different steps in the advanced analytics.
 
@@ -29,7 +29,7 @@ Classification is a category of what is called supervised machine learning metho
 ### Neural Networks
 
 Artificial Neural Networks (ANN) are computational models based on the neural structure of the brain. They are recognized as one of the best machine learning methods.  The outputs from the neural network depend on the inputs fed to it and the different parameters within the neural network. The nnet package on R and sckit-learn on Python have an implementation of ANNs [2].
-![A simple architecture of a neural network. \label{Figure2}](../../images/image003.png)
+![A simple architecture of a neural network. \label{Figure2}](../images/image003.png)
 
 Figure 2: A simple architecture of a neural network.
 
@@ -40,7 +40,7 @@ Clustering belongs to unsupervised data analysis algorithms, in which the hidden
 K-means neighbors is a simple method used for data clustering. It statrs by selecting k randomly choosed centers among the data and then tries to regroup the most similar points around each center. The position of the centers still moving untill the learned model has
 It stores all available cases and classifies new cases based on a similarity measure [7].
 
-![Distribution of several points in a multi-dimensional space. The points that have similar attributes are grouped in the same cluster. \label{Figure2}](../../images/image005.png)
+![Distribution of several points in a multi-dimensional space. The points that have similar attributes are grouped in the same cluster. \label{Figure2}](../images/image005.png)
 
 Figure 3: Distribution of several points in a multi-dimensional space. The points that have similar attributes are grouped in the same cluster.
 
@@ -50,7 +50,7 @@ Figure 3: Distribution of several points in a multi-dimensional space. The point
 
 A decision tree is a mathematical model helping you to choose between several courses of action. It uses estimates probabilities to calculate likely outcomes. At each node a test is realised on each attribute, within a binary comparison. A tree is generated using a training set where the classes of the training variables are in the leafs. Having a new value, a list of tests are performed by traversing a path of the tree untill a leaf is reached. The class of the variable is the label of the reached leaf [2].
 
-![Example of a decision tree. \label{Figure4}](../../images/image007.png)
+![Example of a decision tree. \label{Figure4}](../images/image007.png)
 
 Figure 4 Example of a decision tree.
 
@@ -58,7 +58,7 @@ Figure 4 Example of a decision tree.
 
 Random forests are a combination of tree predictors for classification, regression and other tasks. Each tree depends on the values of a random vector sampled independently and with the same distribution for all trees in the forest.  It is one of the most popular methods or frameworks used by data scientists [2].
 
-![Example of a decision tree. \label{Figure5}](../../images/image009.png)
+![Example of a decision tree. \label{Figure5}](../images/image009.png)
 
 Figure 5 Example of random forests.
 
@@ -67,7 +67,7 @@ Figure 5 Example of random forests.
 
 Knowledge Discovery (KDD) is an interdisciplinary area focusing upon methodologies for extracting useful knowledge from data. The ongoing rapid growth of online data due to the Internet and the widespread use of databases have created an immense need for KDD methodologies. The challenge of extracting knowledge from data draws upon research in statistics, databases, pattern recognition, machine learning, data visualization, optimization, and high-performance computing, to deliver advanced business intelligence and web discovery solutions.
 
-![The KDD process: from data to knowledge \label{Figure7}](../../images/kdd.gif)
+![The KDD process: from data to knowledge \label{Figure7}](../images/kdd.gif)
 
 Figure 7: [The KDD process: from data to knowledge](http://www2.cs.uregina.ca/~dbd/cs831/notes/kdd/1_kdd.html)
 
