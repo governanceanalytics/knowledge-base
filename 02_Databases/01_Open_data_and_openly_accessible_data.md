@@ -4,7 +4,7 @@
 
 ### Definition
 
-![](../../media/openData-openAccess.png)
+![](../media/openData-openAccess.png)
 
 ### Learn more about it :
 Towards Open Science \[1\]: Movement to make scientific research, data and dissemination accessible
@@ -47,12 +47,12 @@ For the European Union, two portals are available:
     access to open data from the EU institutions, agencies and other
     bodies.
 
-![](../../media/euOpenDataPortal.png)
+![](../media/euOpenDataPortal.png)
 
 2.  The [*Public Data*](http://publicdata.eu/) portal: provides datasets
     from local, regional and national public bodies across Europe.
 
-![](../../media/europePublicData.png)
+![](../media/europePublicData.png)
 
 ## Non governmental organizations data
 
@@ -150,7 +150,7 @@ sciences (**national**). Access is open unless otherwise stated.
 Coordination of infrastructures in social sciences \[1\] (European and national levels)
 ---------------------------------------------------------------------------------------
 
-![](../../media/socialSciencesInfrastructures.png)
+![](../media/socialSciencesInfrastructures.png)
 
 ## Linked Open Data (LOD)
 
@@ -186,7 +186,7 @@ triples from many sources: geographical data, statistics, genetic data,
 medical data, scientific publications,
 movies, music, etc. (see figure below, http://lod-cloud.net/ ).
 
-![](../../media/linkedOpenDataCloud.png)
+![](../media/linkedOpenDataCloud.png)
 
 ### Learn more..
 
