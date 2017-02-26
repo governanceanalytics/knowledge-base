@@ -1,7 +1,7 @@
 ## Blog
 
 **Arthur: Gabriel Rossman**
-- Link: https://codeandculture.wordpress.com/tag/stata/
+- Link: [https://codeandculture.wordpress.com/tag/stata/](https://codeandculture.wordpress.com/tag/stata/)
 - Remark: Gabriel Rossman from UCLA maintains the blog who presents small tips of using Stata.
 
 ## Books
