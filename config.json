@@ -1,6 +1,6 @@
 {
     "title": "Governance Analytics Knowledge Base",
-    "tagline": "....",
+    "tagline": "&nbsp",
     "author": "Governance Analytics",
     "image": "",
     "ignore": {
@@ -22,7 +22,7 @@
 
         "repo": "governanceanalytics/knowledge-base",
         "edit_on_github": "governanceanalytics/knowledge-base/blob/master",
-        "twitter": ["@gov_analytics"],
+        "twitter": ["gov_analytics"],
         "google_analytics": "UA-89125689-1",
         "links": {
             "GitHub Repo": "https://github.com/governanceanalytics/knowledge-base",
