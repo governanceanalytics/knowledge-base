@@ -1,13 +1,12 @@
 # Open Data and Openly Accessible Data
 
-## What is Open Data, what is Open Access to data
+## Definition : 
+The figure below gives a definition of what is Open Data and what is Open Access to data.
 
-### Definition
+<img align="center" src="../media/openData-openAccess.png"  height="500" width="600" >
 
-![](../media/openData-openAccess.png)
-
-### Learn more about it :
-Towards Open Science \[1\]: Movement to make scientific research, data and dissemination accessible
+### Learn more about it
+Towards Open Science \[1\] is a movement to make scientific research, data and dissemination accessible
 to all levels of an inquiring society (see «TreeTaxonomic»
 [*https://www.fosteropenscience.eu/*](https://www.fosteropenscience.eu/)).
 
